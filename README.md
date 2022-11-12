@@ -1,9 +1,14 @@
-# Fabric Example Mod
+# cartography maps
 
-## Setup
+you can make maps in the cartography table
+its like a dream come true
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+also made the cartography table more expensive since you can make maps really cheap with them (just find them in a village ig)
 
-## License
+## recipes
+paper in the top slot and ink sac in the bottom slot results in *MAP*
+paper in the top slot and glow ink sac in the bottom slot results in *TWO MAP*
+crazy right
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# license
+this is licensed by the MIT license but im not really sure how licenses work hopefully i did it right
