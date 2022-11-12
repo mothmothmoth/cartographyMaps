@@ -7,7 +7,9 @@ also made the cartography table more expensive since you can make maps really ch
 
 ## recipes
 paper in the top slot and ink sac in the bottom slot results in *MAP*
+
 paper in the top slot and glow ink sac in the bottom slot results in *TWO MAP*
+
 crazy right
 
 # license
