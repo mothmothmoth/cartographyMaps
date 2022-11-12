@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "cartographymaps",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Cartography Map Making",
+  "description": "Make maps in your cartography table.",
   "authors": [
-    "Me!"
+    "mothmothmoth"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://send.moth.pics/",
+    "sources": "https://github.com/mothmothmoth/cartographyMaps"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/cartographymaps/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.github.mothmothmoth.cartographymaps.cartographyMaps"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "cartographymaps.mixins.json"
   ],
 
   "depends": {

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fpp",
+    "wcw",
+    "wiw"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:ink_sac"
+    },
+    "f": {
+      "item": "minecraft:feather"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "item": "minecraft:cartography_table",
+    "count": 1
+  }
+}
