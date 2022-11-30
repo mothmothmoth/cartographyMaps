@@ -1,8 +1,8 @@
 /**
- * This class was forked from:
- * https://github.com/AntiqueAtlasTeam/AntiqueAtlas/blob/37038a399ecac1d58bcc7164ef3d309e8636a2cb/src/main/java
- *      /hunternif/mc/impl/atlas/mixin/prod/CartographyTableHandlerSlotMixin.java
- * Under the GPL-3 license.
+ * this class was forked from this guy:
+ * https://github.com/Pepperoni-Jabroni/MapAtlases/blob/916aede8a631947fdbab250031ebc1486e38e5e3/src/main/java
+ *	/pepjebs/mapatlases/mixin/CartographyTableScreenHandlerMixin.java
+ * im not sure how licensing works really but if this is illegal since my code is using the MIT license oops ill refactor
  */
 package io.github.mothmothmoth.cartographymaps.mixin;
 
