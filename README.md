@@ -14,6 +14,3 @@ crazy right
 
 # license
 this is licensed by the MIT license
-
-# fabric usage
-idk if fabric's discord is still owned by that transphobe or not but fuck terfs i'd use quilt if i knew how to set it up properly
